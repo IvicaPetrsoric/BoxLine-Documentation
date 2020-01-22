@@ -14,7 +14,7 @@ The game is based on player's reaction by using touch and tries to stop the box 
 
 # Workflow
 <p align="center">
-  <img align="center" width="512" height="256" src="images/AppWorkflow.png">
+  <img align="center" width="512" height="256" src="images/appWorkflow.png">
 </p>
  
 ## Splash Screen
