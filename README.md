@@ -13,6 +13,7 @@ The game is based on player's reaction by using touch and tries to stop the box 
 - Multiplayer mode for engaging player to set scores and to challenge each other with the random matchmaking system
 - Unique UI with smooth animation for a great UX
 
-![](test.gif)
-
- <img src="images/test.gif" widht= 150 height = 300  hspace="0" />
+# Workflow
+<img align="center" width="512" height="256" src="images/AppWorkflow.png">
+ 
+ 
