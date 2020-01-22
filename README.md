@@ -25,8 +25,8 @@ The Splash Screen is the first thing shown after the user starts the application
  ## Home Screen
 After splash screen user is navigated to the main screen "Home". The background is animated all-time with moving selected box behind the clouds. When switching between singleplayer and multiplayer all buttons are animated and switched for the selected mode.
 
-From here we can navigate to:
-- Game screen, 
+From here we can navigate to screens:
+- Game, 
 - Multiplayer,
 - Players, 
 - Scores, 
