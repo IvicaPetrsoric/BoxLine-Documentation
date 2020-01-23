@@ -71,4 +71,7 @@ If the user needs extra diamonds or coins he can navigate to "Shop" screen. The 
  <img src="images/screenShop1.png" widht= 75 height = 300  hspace="0"/> <img src="images/screenShop2.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenShop3.png" widht= 150 height = 300  hspace="0"/> 
 
 ## Remove Ads
+During playing the game every now and then Ads are shown to the player, to remove them / restore there is a button on "Home" screen. 
+
+ <img src="images/removeAds1.png" widht= 75 height = 300  hspace="0"/> 
 
