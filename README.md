@@ -42,9 +42,9 @@ This screen shows the game of this application. User can enter this screen from 
  <img src="images/screenGame0.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenGame1.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenGame2.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenGame3.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenGame4.png" widht= 150 height = 300  hspace="0"/>  <img src="images/screenGame6a.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenGame7.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenGame12.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenGame8.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenGame9.png" widht= 150 height = 300  hspace="0"/>  
  
  ## Multiplayer Screen
- ------ WIP ------
-While picking multiplayer mode on "Home" screen, user can pick which arena type he is interested. Current there is the only arena for bidding where a user needs to invest 70 coins to gain 130 coins. When picking that arena ------- 
+While picking multiplayer mode on "Home" screen, the user can pick which arena type he is interested. Arenas are working by using a specific amount of coins and trying to nearly double it. User can set three scores and wait for other players to match with one of his scores and try to win or lose. On the bottom, there is a "Find match" button which will look for available scores which you can try to win. 
 
+ <img src="images/screenMultiplayer1.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenMultiplayer2.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenMultiplayer3.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenMultiplayer4.png" widht= 150 height = 300  hspace="0"/>  <img src="images/screenMultiplayer5.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenMultiplayer6.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenMultiplayer7.png" widht= 150 height = 300  hspace="0"/>  <img src="images/screenMultiplayer8.png" widht= 150 height = 300  hspace="0"/>
 
 ## Players Screen
 While collecting coins and diamonds user can unlock various boxes for a new look and abilities. There are boxes which can be upgraded to upgrade its the base ability.
