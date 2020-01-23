@@ -66,6 +66,9 @@ To update current user name, music or SFX strength the user can navigate to "Opt
 <img src="images/screenOptions2.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenOptions3.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenOptions4.png" widht= 150 height = 300  hspace="0"/>  <img src="images/screenOptions5.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenOptions6.png" widht= 150 height = 300  hspace="0"/>
 
 ## Shop Screen
+If the user needs extra diamonds or coins he can navigate to "Shop" screen. The Shop is divided into three segments: special offer where he can once in 1h watch Ads to gain diamonds, buy diamonds for the defined price or convert diamonds into coins.
+
+ <img src="images/screenShop1.png" widht= 75 height = 300  hspace="0"/> <img src="images/screenShop2.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenShop3.png" widht= 150 height = 300  hspace="0"/> 
 
 ## Remove Ads
 
