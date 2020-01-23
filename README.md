@@ -54,6 +54,10 @@ On this screen, the user can see his score competing on a local and global scale
  <img src="images/screenScores1.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenScores2.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenScores3.png" widht= 150 height = 300  hspace="0"/> 
 
 ## Achievements Screen
+During the application lifecyle, the user can unlock various achievemnets while in singleplayer, multiplayer or buying and upgrading various players. The acvhievements are segmented in two types: singleplayer and multiplayer. Every achievement is dived in three levels where each level brings more awards but on the other side the tasks are getting much harder. If user has any unlocked achievemnt the responding type will be glowing so he knows where to navigate and collect hes prize.
+
+ <img src="images/screenAchievements1.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenAchievements2.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenAchievements3.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenAchievements4.png" widht= 150 height = 300  hspace="0"/>  <img src="images/screenAchievements5.png" widht= 150 height = 300  hspace="0"/>
+
 
 ## Options Screen
 
