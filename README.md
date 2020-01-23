@@ -43,10 +43,11 @@ This screen shows the game of this application. User can enter this screen from 
  <img src="images/screenGame0.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenGame1.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenGame2.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenGame3.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenGame4.png" widht= 150 height = 300  hspace="0"/>  <img src="images/screenGame6a.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenGame7.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenGame12.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenGame8.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenGame9.png" widht= 150 height = 300  hspace="0"/>  
  
  ## Multiplayer Screen
- ------ REDO ------
+ ------ WIP ------
 while picking multiplayer mode on "Home" screen, user can pick which arena type he is interested. Current there is the only arena for bidding where a user needs to invest 70 coins to gain 130 coins. When picking that arena ------- 
 
 ## Players Screen
+-- TODO --
 
 ## Scores Screen
 On this screen, the user can see his score competing on a local and global scale. Local-scale represents users country where global-scale represents all players around the world.
@@ -54,12 +55,15 @@ On this screen, the user can see his score competing on a local and global scale
  <img src="images/screenScores1.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenScores2.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenScores3.png" widht= 150 height = 300  hspace="0"/> 
 
 ## Achievements Screen
-During the application lifecyle, the user can unlock various achievemnets while in singleplayer, multiplayer or buying and upgrading various players. The acvhievements are segmented in two types: singleplayer and multiplayer. Every achievement is dived in three levels where each level brings more awards but on the other side the tasks are getting much harder. If user has any unlocked achievemnt the responding type will be glowing so he knows where to navigate and collect hes prize.
+During the application lifecycle, the user can unlock various achievements while in singleplayer, multiplayer or buying and upgrading various players. The achievements are segmented into two types: singleplayer and multiplayer. Every achievement is dived in three levels where each level brings more awards but on the other side, the tasks are getting much harder. If the user has any unlocked achievement the responding type will be glowing so he knows where to navigate and collect his prize.
 
  <img src="images/screenAchievements1.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenAchievements2.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenAchievements3.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenAchievements4.png" widht= 150 height = 300  hspace="0"/>  <img src="images/screenAchievements5.png" widht= 150 height = 300  hspace="0"/>
 
 
 ## Options Screen
+To update current user name, music or SFX strength the user can navigate to "Options" screen which is a part of "Home" screen.
+
+<img src="images/screenOptions2.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenOptions3.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenOptions4.png" widht= 150 height = 300  hspace="0"/>  <img src="images/screenOptions5.png" widht= 150 height = 300  hspace="0"/> <img src="images/screenOptions6.png" widht= 150 height = 300  hspace="0"/>
 
 ## Shop Screen
 
