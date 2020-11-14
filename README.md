@@ -3,6 +3,8 @@
 # BoxLine: Documentation
 The game is based on the player's reaction to touch the screen and place the box inside a straight line of the wall. Through achieving more and more points, the player gets a possibility to compete on the local (national) and global (world) level, which becomes visible on the score lists. Throughout the game, the player has several options; unlocking various achievements, buying various players with differing abilities, or playing multiplayer where they can compete with other players on the server.
 
+To see the application in live on App Store click: [Download](https://apps.apple.com/us/app/boxline/id1308313538?ls=1)
+
 Main Features:
 - The game is based on the reflex and precision of the user
 - A bunch of achievements in single and multiplayer mode waiting to be unlocked 
